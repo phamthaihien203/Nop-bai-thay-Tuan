@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#main {
+    background-color: #F7CAAC;
+}
+#header {
+    text-align: center;
+    height: 30px;
+    border-bottom: 1px solid;
+    border-top: 1px solid;
+}
+
+#section {
+    height: 200px;
+    border-bottom: 1px solid;
+}
+#footer {
+    height: 30px;
+    text-align: center;
+    border-bottom: 1px solid;
+}
